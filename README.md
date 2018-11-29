@@ -1,2 +1,2 @@
 # github_repository
-code for james
+code for James
